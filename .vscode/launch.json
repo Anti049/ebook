@@ -1,0 +1,26 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "ebook",
+			"request": "launch",
+			"type": "dart",
+			"program": "example/ebook_example.dart"
+		},
+		{
+			"name": "Example (Dart)",
+			"request": "launch",
+			"type": "dart",
+			"program": "example/ebook_example_dart/lib/ebook_example_dart.dart"
+		},
+		{
+			"name": "Example (Flutter)",
+			"type": "dart",
+			"request": "launch",
+			"program": "example/ebook_example_flutter/lib/main.dart"
+		}
+	]
+}

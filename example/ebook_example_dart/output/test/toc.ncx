@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="fanfic-uid:ao3-34813381"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>whatever this is, it isn't love</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="title_page" playOrder="0">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="OEBPS/title_page.xhtml"/>
+    </navPoint>
+    <navPoint id="file0001" playOrder="1">
+      <navLabel>
+        <text>1. Chapter 1</text>
+      </navLabel>
+      <content src="OEBPS/file0001.xhtml"/>
+    </navPoint>
+    <navPoint id="file0002" playOrder="2">
+      <navLabel>
+        <text>2. Chapter 2</text>
+      </navLabel>
+      <content src="OEBPS/file0002.xhtml"/>
+    </navPoint>
+    <navPoint id="file0003" playOrder="3">
+      <navLabel>
+        <text>3. Chapter 3</text>
+      </navLabel>
+      <content src="OEBPS/file0003.xhtml"/>
+    </navPoint>
+    <navPoint id="file0004" playOrder="4">
+      <navLabel>
+        <text>4. Chapter 4</text>
+      </navLabel>
+      <content src="OEBPS/file0004.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

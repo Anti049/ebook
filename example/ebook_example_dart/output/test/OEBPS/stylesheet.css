@@ -1,0 +1,152 @@
+body {
+	text-align: justify;
+	margin: 2%;
+	adobe-hyphenate: none;
+}
+.tags {
+	display: block;
+	margin: 1em 0;
+	padding: 0;
+	border: currentColor none medium;
+}
+.calibre {
+	display: block;
+	font-size: 1em;
+	padding-left: 0;
+	padding-right: 0;
+	margin: 0 5pt;
+}
+.calibre1 {
+	display: block;
+}
+.calibre2 {
+	font-weight: bold;
+}
+.calibre3 {
+	display: block;
+	font-weight: bold;
+	margin: 0;
+}
+.calibre4 {
+	display: block;
+	margin: 0 0 1em 1em;
+}
+.calibre5 {
+	display: block;
+	margin: 0 0 0 1em;
+}
+.calibre6 {
+	display: block;
+	font-size: 1.41667em;
+	font-weight: bold;
+	line-height: 1.2;
+	text-align: center;
+	margin: 0.67em 0;
+}
+.calibre7 {
+	display: block;
+	margin: 1em 0;
+}
+.calibre8 {
+	display: block;
+}
+.calibre9 {
+	color: gray;
+	display: block;
+	height: 2px;
+	margin: 0.5em auto;
+	border: currentColor inset 1px;
+}
+.calibre10 {
+	font-style: italic;
+}
+.calibre11 {
+	height: auto;
+	max-width: 100%;
+	width: auto;
+}
+.calibre12 {
+	display: block;
+	margin-left: 40px;
+}
+.calibre13 {
+	display: block;
+	font-size: 1.125em;
+	font-weight: bold;
+	line-height: 1.2;
+	margin: 1em 0;
+}
+.calibre14 {
+	display: block;
+	list-style-type: decimal;
+	margin-bottom: 1em;
+	margin-right: 0;
+	margin-top: 1em;
+}
+.calibre15 {
+	display: list-item;
+}
+.calibre16 {
+	display: block;
+	list-style-type: circle;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-top: 0;
+}
+.calibre17 {
+	text-decoration: underline;
+}
+.calibre18 {
+	text-decoration: line-through;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+h5 {
+	text-align: center;
+}
+h6 {
+	text-align: center;
+}
+.CI {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+.center {
+	text-align: center;
+}
+.cover {
+	text-align: center;
+}
+.full {
+	width: 100%;
+}
+.quarter {
+	width: 25%;
+}
+.smcap {
+	font-variant: small-caps;
+}
+.u {
+	text-decoration: underline;
+}
+.bold {
+	font-weight: bold;
+}
+.big {
+	font-size: larger;
+}
+.small {
+	font-size: smaller;
+}
