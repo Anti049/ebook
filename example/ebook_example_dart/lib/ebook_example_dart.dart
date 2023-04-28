@@ -33,6 +33,10 @@ Future<void> testRead(String outputFolder) async {
 }
 
 Future<void> testWrite(String outputFolder) async {
+  // If output folder doesn't exist, create it
+  if (!await Directory(outputFolder).exists()) {
+    await Directory(outputFolder).create();
+  }
   var writer = EpubWriter();
   writer.formatter.useStylesheetFile = true;
   // Get full filepath to '.\stylesheet.css'

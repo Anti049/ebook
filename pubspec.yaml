@@ -14,7 +14,6 @@ dev_dependencies:
     test: ^1.21.0
 dependencies:
     archive: ^3.3.7
-    image: ^4.0.15
     intl: ^0.18.1
     path_provider: ^2.0.14
     universal_io: ^2.2.0
