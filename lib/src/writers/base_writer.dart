@@ -42,10 +42,11 @@ abstract class BaseWriter {
         String key1 = keyList[0];
         String key2 = keyList[1];
         if (book!.metadata!.hasKey(key1)) {
-          Map<String, dynamic> data = getMetadata(key1);
-          if (data.containsKey(key2)) {
+          dynamic data = getMetadata(key1);
+          if (data is Map && data.containsKey(key2)) {
             return data[key2];
           }
+          return data;
         }
       }
     } else if (!book!.metadata!.hasKey(key)) {
